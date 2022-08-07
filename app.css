@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(29, 212, 233, 0.734);
+    text-align: center; 
+    margin: 50px 0;      
+}
+h1{
+    text-decoration: solid;
+    color: blue;
+}
+button {
+    color: rgb(239, 29, 36);
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 20%;
+}
+:hover{
+    cursor: pointer;
+}
